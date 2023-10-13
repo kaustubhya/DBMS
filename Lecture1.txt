@@ -1,1 +1,16 @@
 Data -> Collection of raw bytes.
+
+Raw data is meaningless, we need to PROCESS them.
+
+eg. 
+
+12.2    36      29.11
+14      26      25.55   => Raw Data
+
+Height  Weight  BMI
+12.2     36     29.11
+14       26     25.55   => Processed Data
+
+Processed Data is also called 'Information'.
+Data when Processed gives us a context the ability to make decisions.
+
