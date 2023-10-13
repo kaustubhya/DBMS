@@ -1,0 +1,1 @@
+Data -> Collection of raw bytes.
