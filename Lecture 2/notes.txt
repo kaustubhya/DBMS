@@ -1,4 +1,0 @@
-Abstraction - System hides certain details which makes the user interaction super easy.
-eg - Car Driving
-
-
